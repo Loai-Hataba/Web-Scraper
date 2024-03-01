@@ -1,5 +1,5 @@
 # 🥄Web-Scraper
-A Web Scraping project made to scrape 4000 products from an online pet store.
+A Web Scraping project made to scrape and organize more than 4000 products from an online pet store!
 
 🛒 This is a web scrapper that exctracted several contents of an item such as:
 - Vendor

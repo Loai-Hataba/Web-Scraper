@@ -1,5 +1,7 @@
-import time
+# a user interface for the web scraping program
 
+
+import time
 import customtkinter
 from customtkinter import filedialog
 from tkinter import *

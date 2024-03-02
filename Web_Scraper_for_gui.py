@@ -1,3 +1,5 @@
+# integrating the web scraping code with the GUI
+
 import time
 import requests
 from bs4 import BeautifulSoup
